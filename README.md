@@ -1,4 +1,6 @@
 <a href="mailto:kullaphatkajhan@gmail.com"> kullaphatkajhan@gmail.com </a>
+<a href="linkedin.com/in/kullaphat-kajhan-ab64232a9"> linkedin </a>
+linkedin.com/in/kullaphat-kajhan-ab64232a9
 
 <details>
   <summary>Stats</summary>
