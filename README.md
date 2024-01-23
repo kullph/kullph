@@ -1,1 +1,5 @@
-<p><img src="https://github-readme-stats.vercel.app/api?username=kullph&theme=graywhite&show_icons=true&counts_private=true&hide_title=false&hide_border=true"></p>
+<details>
+  <img src="https://github-readme-stats.vercel.app/api?username=kullph&show_icons=true&theme=light">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullph&show_icons=true&theme=light&layout=compact&langs_count=12&hide=jupyter+notebook&&count_private=true">
+  <img src="https://streak-stats.demolab.com/?user=kullph&theme=light">
+</details>
