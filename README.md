@@ -1,3 +1,5 @@
+<a href="mailto:kullaphatkajhan@gmail.com"> kullaphatkajhan@gmail.com </a>
+
 <details>
   <summary>Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=kullph&show_icons=true&theme=light">
